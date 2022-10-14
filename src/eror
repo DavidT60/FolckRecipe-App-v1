@@ -1,0 +1,20 @@
+User Error:
+789:
+  The user does not have that recipe saved. Maybe was deleted, or the data is missed (maybe corss oring or where it were fetched)
+170:
+ Something is wrong with the internet connection.
+
+Developer Error:
+234:
+ It means that an object does not exist. It may be an error from the local store or from the API request.
+ _saveBookMaeks()
+
+
+567: 
+  Error Removing Data from LocalStore, if this error is reported you have to checke out
+  _removeBookMarks() and parametres.
+
+
+libraries:
+  A polyfill is a piece of code that adds functionality to older browsers
+  npm i  core-js regenerator-runtime
