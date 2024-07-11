@@ -2,7 +2,7 @@
   "name": "folkrecipies",
   "version": "1.0.0",
   "description": "Simple Project using api recipies",
-  "default":"html.index",
+  "default": "html.index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-image": "^2.0.0-rc.0",
-    "parcel": "^2.7.0"
+    "parcel": "^2.12.0"
   },
   "dependencies": {
     "core-js": "^3.25.5",
